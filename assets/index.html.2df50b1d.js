@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-63cd5dba","path":"/python/","title":"前言","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1667187279000,"contributors":[{"name":"唐自豪","email":"1487046534@qq.com","commits":2}]},"filePathRelative":"python/README.md"}');export{t as data};
