@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as a,d as t}from"./app.671e8ac0.js";const p={},e=t(`<h1 id="下载" tabindex="-1"><a class="header-anchor" href="#下载" aria-hidden="true">#</a> 下载</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> time
+import{_ as n,o as s,c as a,a as t}from"./app.ca372f15.js";const p={},e=t(`<h1 id="下载" tabindex="-1"><a class="header-anchor" href="#下载" aria-hidden="true">#</a> 下载</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> time
 <span class="token keyword">import</span> requests
 
 <span class="token comment"># 读取txt</span>

@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as a,d as t}from"./app.671e8ac0.js";const e={},p=t(`<h1 id="爬取" tabindex="-1"><a class="header-anchor" href="#爬取" aria-hidden="true">#</a> 爬取</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> re
+import{_ as n,o as s,c as a,a as t}from"./app.ca372f15.js";const e={},p=t(`<h1 id="爬取" tabindex="-1"><a class="header-anchor" href="#爬取" aria-hidden="true">#</a> 爬取</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> re
 
 <span class="token keyword">import</span> requests  <span class="token comment"># 数据请求模块</span>
 <span class="token keyword">import</span> os

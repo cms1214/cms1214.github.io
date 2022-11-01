@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as a,d as t}from"./app.671e8ac0.js";const p={},e=t(`<h1 id="后缀名" tabindex="-1"><a class="header-anchor" href="#后缀名" aria-hidden="true">#</a> 后缀名</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> os
+import{_ as n,o as s,c as a,a as t}from"./app.ca372f15.js";const p={},e=t(`<h1 id="后缀名" tabindex="-1"><a class="header-anchor" href="#后缀名" aria-hidden="true">#</a> 后缀名</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> os
 
 <span class="token comment"># 这是你需要修改文件的路径地址</span>
 filePath <span class="token operator">=</span> <span class="token string">&quot;./data_QCimg&quot;</span>

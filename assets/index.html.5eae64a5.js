@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as n}from"./app.ca372f15.js";const o={},s=e("h1",{id:"写在前面",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#写在前面","aria-hidden":"true"},"#"),n(" 写在前面")],-1),r=e("p",null,"应该是最后一门前端课程，我很庆幸是......",-1),_=[s,r];function d(i,l){return a(),c("div",null,_)}const f=t(o,[["render",d],["__file","index.html.vue"]]);export{f as default};
