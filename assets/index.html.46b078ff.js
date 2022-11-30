@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0c85bc2d","path":"/python/download/","title":"下载","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1667187279000,"contributors":[{"name":"唐自豪","email":"1487046534@qq.com","commits":1}]},"filePathRelative":"python/download/README.md"}');export{t as data};

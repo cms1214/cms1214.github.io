@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-744e6dd4","path":"/web/","title":"写在前面","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1667275517000,"contributors":[{"name":"唐自豪","email":"1487046534@qq.com","commits":3}]},"filePathRelative":"web/README.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-bf6ebf72","path":"/web/loading/","title":"缓冲动画","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1667275517000,"contributors":[{"name":"唐自豪","email":"1487046534@qq.com","commits":1}]},"filePathRelative":"web/loading/README.md"}');export{e as data};
